@@ -1,0 +1,28 @@
+.Surah {
+  width: 100%;
+  margin-bottom: 10px;
+}
+.names {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-block: 10px;
+
+}
+
+.ayah {
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  font-size: 20px;
+  flex-direction: column;
+  padding-block: 10px;
+  padding-inline: 10px;
+  border-block: 1px solid #cccccc74;
+  margin-bottom: 20px;
+  color: white;
+  width: 100%;
+  margin: 0;
+  font-weight: bold;
+}
